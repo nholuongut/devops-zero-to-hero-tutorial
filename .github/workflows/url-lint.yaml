@@ -1,0 +1,14 @@
+name: URL lint
+
+on:
+  - push
+  - pull_request
+
+jobs:
+  yaml_lint:
+    name: YAML lint
+    uses: Nholuongut/GitHub-Actions/.github/workflows/url_links.yaml@master
+    with:
+      url_links_ignored: |
+        https://api.ipify.org
+        https://signal.avg.com/hs-fs/hubfs
