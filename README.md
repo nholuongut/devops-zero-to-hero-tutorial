@@ -649,3 +649,19 @@ Benefits of virtual machines include:
 | [YAML](https://en.wikipedia.org/wiki/YAML) | Yet Another Markup Language - simple way of representing key value pairs, lists, dictionaries. Usually used for config files eg. [readme-lint.yaml](https://github.com/Nholuongut/devops-zero-to-hero-tutorial/blob/main/.github/workflows/readme-lint.yaml) |
 | [JSON](https://en.wikipedia.org/wiki/JSON) | JavaScript Object Notation - text-based data file written like a dictionary in code with braces, key-value pairs, lists, often used for data interchange between web services eg. `{ "name": "Maya", "hobbies": ["coding", "music"] }`          |
 | [XML](https://en.wikipedia.org/wiki/XML)   | Extensible Markup Language - text-based data file with a start \<tag\> and end \</tag\> (with a slash) surrounding each field eg. `<name>Maya</name>`, older format used for data interchange in older web services                             |
+
+# 🚀 I'm are always open to your feedback.  Please contact as bellow information:
+### [Contact ]
+* [Name: nho Luong]
+* [Skype](luongutnho_skype)
+* [Github](https://github.com/nholuongut/)
+* [Linkedin](https://www.linkedin.com/in/nholuong/)
+* [Email Address](luongutnho@hotmail.com)
+* [PayPal.me](https://www.paypal.com/paypalme/nholuongut)
+
+![](https://i.imgur.com/waxVImv.png)
+![](Donate.png)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
+
+# License
+* Nho Luong (c). All Rights Reserved.🌟
